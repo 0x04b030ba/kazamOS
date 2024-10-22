@@ -6,3 +6,14 @@ A debian based easy to use linux distribution (to be) for my friends who are stu
 
 ## Theme
 [kOS-theme](https://github.com/Wolf-Pack-Clan/kOS-theme)
+
+# Todo
+
+Some tasks to do:
+- Grub theme
+- Some other software
+- ~~Create plymouth theme~~                            ✅️
+- ~~GTK and Window Manager theme~~                     ✅️
+- ~~Wallpapers/Backgrounds~~                           ✅️
+- ~~Cursor Theme~~                                     ✅️
+- **...**
