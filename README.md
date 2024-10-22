@@ -14,6 +14,8 @@ A debian based easy to use linux distribution (to be) for my friends who are stu
 | Grub theme |  |
 | Helper/Assistant for beginners |  |
 | Some other software and tools |  |
+| Icon theme (maybe) |  |
+| Translations |  |
 | ~~Create plymouth theme~~ | ✅️ |
 | ~~GTK and Window Manager theme~~ | ✅️ |
 | ~~Wallpapers/Backgrounds~~ | ✅️ |
