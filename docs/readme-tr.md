@@ -1,23 +1,23 @@
-# kazamOS <img src="../images/kazamos.png" alt="kazamos-logo" align="right" width=486 height=103 />
-A debian based easy to use linux distribution (to be) for my friends who are stuck on windows 7 :)
+# kazamOS <img src = "../images/kazamos.png" alt = "kazamos-logo" align = "right" width = 486 height = 103 />
+Windows 7'ye takılıp kalan arkadaşlarım için debian tabanlı, kullanımı kolay bir linux dağıtımı (olacak) :)
 
-## Software
+## Yazılım
 [gameXplorer](https://github.com/Wolf-Pack-Clan/gameXplorer)
 
-## Theme
-[kOS-theme](https://github.com/Wolf-Pack-Clan/kOS-theme)
+## Tema
+[kOS-teması](https://github.com/Wolf-Pack-Clan/kOS-theme)
 
-# Todo
+# Yapılacaklar
 
-| Task | Status |
+| Görev | Durum |
 | --- | --- |
-| Grub theme |  |
-| Helper/Assistant for beginners |  |
-| Some other software and tools |  |
-| Icon theme (maybe) |  |
-| Translations |  |
-| ~~Create plymouth theme~~ | ✅️ |
-| ~~GTK and Window Manager theme~~ | ✅️ |
-| ~~Wallpapers/Backgrounds~~ | ✅️ |
-| ~~Cursor Theme~~ | ✅️ |
+| Grubun teması |  |
+| Yeni başlayanlar için Yardımcı/Asistan |  |
+| Diğer bazı yazılım ve araçlar |  |
+| Simge teması (belki) |  |
+| Çeviriler |  |
+| ~~Plymouth temasını oluştur~~ | ✅️ |
+| ~~GTK ve Pencere Yöneticisi teması~~ | ✅️ |
+| ~~Duvar Kağıtları/Arka Planlar~~ | ✅️ |
+| ~~İmleç Teması~~ | ✅️ |
 | **...** | |
