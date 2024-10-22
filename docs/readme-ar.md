@@ -1,4 +1,4 @@
-# kazamOS <img src="images/kazamos.png" alt="kazamos-logo" align="right" width=486 height=103 />
+# kazamOS <img src="../images/kazamos.png" alt="kazamos-logo" align="right" width=486 height=103 />
 A debian based easy to use linux distribution (to be) for my friends who are stuck on windows 7 :)
 
 ## Software
